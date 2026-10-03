@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 Live Demo & Links
-- 🌐 **Live Website**: [https://resume-hub-447.preview.emergentagent.com](https://resume-hub-447.preview.emergentagent.com)
+- 🌐 **Live Website**: [kiranthakor-portfolio.vercel.app](kiranthakor-portfolio.vercel.app)
 - 🐙 **GitHub Repository**: [https://github.com/Kiranthakor1103/Kiranthakor_Portfolio](https://github.com/Kiranthakor1103)
 - 💼 **LinkedIn Profile**: [https://www.linkedin.com/in/kiranthakor1103](https://www.linkedin.com/in/kiranthakor1103)
 - 📄 **Direct Resume/CV**: Available for download directly in the navbar and hero section (`/Kiran_Thakor_CV.pdf`).
